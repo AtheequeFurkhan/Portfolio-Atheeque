@@ -12,6 +12,16 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
+    "/portfolio-gallery/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/portfolio-gallery/page.js"
+    ],
+    "/home-personal/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/home-personal/page.js"
+    ],
     "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
