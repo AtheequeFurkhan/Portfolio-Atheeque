@@ -72,11 +72,11 @@ function Header() {
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Phone :</h6>
-            <span className="p-color">+94 729 498 655</span>
+            <span className="p-color">+94 72 949 8655</span>
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Address :</h6>
-            <span className="p-color">5919 Trussville Pkwy, Birmingham</span>
+            <span className="p-color">65/3A , Huludagoda Road, Mount Lavinia</span>
           </div>
         </div>
       </div>
