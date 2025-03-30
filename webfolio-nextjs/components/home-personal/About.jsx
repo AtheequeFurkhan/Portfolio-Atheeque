@@ -29,11 +29,14 @@ function About() {
               <h6 className="sub-title main-color mb-30">About Me</h6>
               <div className="text">
                 <h4 className="mb-30">
-                  I&apos;m{' '}
+                  I&apos;m {''}
                   <span className="fw-200">
-                    Creative Director and UI-UX Designer
+                  A Intern Software Engineer 
+                  
+                  and Graphic Designer
+                  <br/>
                   </span>{' '}
-                  from Sydney, Australia, working in web development and print
+                  from Colombo, Sri Lanka, working in web development and print
                   media.
                 </h4>
                 <p>
@@ -63,7 +66,7 @@ function About() {
                     <div className="col-md-6">
                       <div className="item bord-thin-top pt-30 d-flex align-items-end mt-20">
                         <div>
-                          <h3 className="fw-300 mb-10">6700</h3>
+                          <h3 className="fw-300 mb-10">100+</h3>
                           <h6 className="p-color sub-title">
                             Projects Completed
                           </h6>

@@ -35,9 +35,9 @@ function Header() {
                 Hello! there
               </h6>
               <h1 className="fw-700 mb-10">
-                I&apos;m Oliver <span className="main-color">Jackson</span>
+                I&apos;m Atheeque <span className="main-color">Furkhan</span>
               </h1>
-              <h3>I am a product designer</h3>
+              <h3>I am a intern full stack developer</h3>
               <div className="row">
                 <div className="col-lg-9">
                   <div className="text mt-30">
@@ -68,11 +68,11 @@ function Header() {
         <div className="info d-flex align-items-center justify-content-end mt-100">
           <div className="item">
             <h6 className="sub-title mb-10">Email :</h6>
-            <span className="p-color">Webfolio.Info@gmail.com</span>
+            <span className="p-color">atheeque.20231063@iit.ac.lk</span>
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Phone :</h6>
-            <span className="p-color">+2 456 (343) 24 45</span>
+            <span className="p-color">+94 729 498 655</span>
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Address :</h6>
